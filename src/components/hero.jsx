@@ -54,8 +54,8 @@ export default function Hero() {
 
           {/* Description */}
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-            Full Stack Developer passionate about creating beautiful, functional, and user-friendly
-            web applications
+            Full Stack Software Developer passionate about creating beautiful, functional, and user-friendly
+            web applications & web3 products from design, development, testing and deployment with project coordination and DevOps
           </p>
 
           {/* Buttons */}

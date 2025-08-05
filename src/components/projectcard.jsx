@@ -13,17 +13,7 @@ function ProjectCard() {
   const projects = [
     {
       id: 1,
-      title: "POS with NFT Marketplace",
-      description:
-        "A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace.",
-      technologies: ["Next.js", "React", "Go", "MongoDB", "MySQL", "Firebase"],
-      liveLink: "https://nft-marketplace-81f39.web.app/",
-      githubLink: "https://github.com/ahmed6913/NFT-Marketplace.git",
-      image: "/NFT.png",
-    },
-    {
-      id: 2,
-      title: "POS with NFT Marketplace",
+      title: "NFT Marketplace with admin page",
       description:
         "A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace.",
       technologies: ["Next.js", "React", "Go", "MongoDB", "MySQL", "Firebase"],

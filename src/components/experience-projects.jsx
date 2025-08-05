@@ -56,7 +56,8 @@ export default function ExperienceProjects() {
         "Next.js App Router & Server Components",
         "TypeScript for Type Safety",
         "Responsive Design with Tailwind CSS",
-        "Performance Optimization"
+        "Performance Optimization",
+        "Web Design"
       ]
     },
     {
@@ -79,6 +80,28 @@ export default function ExperienceProjects() {
         "Cloud Deployment (Vercel, AWS)",
         "Performance Monitoring"
       ]
+    },
+    {
+    category: "Project Mangement",
+      concepts: [
+        "Agile SDLC",
+        "Scrum framework",
+        "Jira Tool",
+        "Notion Project Planning",
+        "Product Backlog",
+        "Stand-Ups"
+      ]
+    },
+     {
+
+      category: "Blockchain",
+      concepts: [
+        "Solidity",
+        "EVM",
+        "JavaScript Libraries web3.js/ether.js",
+        "Smart Contract Security"
+      ]
+    
     }
   ];
 
