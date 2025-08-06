@@ -79,7 +79,7 @@ export default function ExperienceProjects() {
         "Docker Containerization",
         "Cloud Deployment (Vercel, AWS)",
         "Performance Monitoring",
-        "Linux Command Line"
+        "Testing & Debugging"
       ]
     },
     {
@@ -102,6 +102,7 @@ export default function ExperienceProjects() {
         "JavaScript Libraries web3.js/ether.js",
         "Smart Contract Security",
         "Metamask Integration",
+        "NFT, DeFi, and DApp Development"
       ]
     
     }
