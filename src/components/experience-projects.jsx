@@ -78,7 +78,8 @@ export default function ExperienceProjects() {
         "CI/CD Pipelines",
         "Docker Containerization",
         "Cloud Deployment (Vercel, AWS)",
-        "Performance Monitoring"
+        "Performance Monitoring",
+        "Linux Command Line"
       ]
     },
     {
@@ -99,7 +100,8 @@ export default function ExperienceProjects() {
         "Solidity",
         "EVM",
         "JavaScript Libraries web3.js/ether.js",
-        "Smart Contract Security"
+        "Smart Contract Security",
+        "Metamask Integration",
       ]
     
     }
