@@ -37,8 +37,7 @@ function ProjectCard() {
     <section className="flex items-center justify-center px-4 py-12 bg-white">
       <div className="container mx-auto max-w-6xl">
         <h2 className="text-4xl font-bold text-center text-gray-900 mb-12 pt-7">
-          My <span className="text-blue-600 dark:text-blue-400">Projects (visit my github for more)</span> 
-     
+          My <span className="text-blue-600 dark:text-blue-400">Projects (visit my <a href="https://github.com/ahmed6913" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-800">github</a> for more)</span>
         </h2>
       
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

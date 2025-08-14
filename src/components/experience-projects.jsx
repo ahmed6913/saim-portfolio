@@ -63,7 +63,7 @@ export default function ExperienceProjects() {
     {
       category: "Backend Development",
       concepts: [
-        "golang",
+        "Golang & Firebase",
         "Database Design & MongoDB",
         "RESTful API Development",
         "Authentication & Authorization",
@@ -102,7 +102,7 @@ export default function ExperienceProjects() {
         "JavaScript Libraries web3.js/ether.js",
         "Smart Contract Security",
         "Metamask Integration",
-        "NFT, DeFi, and DApp Development"
+        "NFT, DeFi, & dApp Development"
       ]
     
     }

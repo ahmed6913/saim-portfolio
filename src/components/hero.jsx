@@ -35,7 +35,14 @@ export default function Hero() {
                   d="M13 10V3L4 14h7v7l9-11h-7z"
                 />
               </svg>
-              Available for freelance work
+              <a
+                href="https://www.upwork.com/freelancers/~015c3c40c30aa13b55?mp_source=share"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-blue-800"
+              >
+                Available for freelance work
+              </a>
             </span>
             <svg
               className="w-4 h-4 text-blue-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"

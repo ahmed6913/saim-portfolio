@@ -10,16 +10,51 @@ const FlipLink = ({ children, href }) => {
     return null;
   }
 
+  const [isHovered, setIsHovered] = React.useState(false);
+
+  // Detect touch device
+  const isTouchDevice = typeof window !== 'undefined' && (
+    'ontouchstart' in window || navigator.maxTouchPoints > 0
+  );
+
+  const handleClick = (e) => {
+    if (isTouchDevice) {
+      e.preventDefault();
+      setIsHovered(true);
+      setTimeout(() => {
+        window.open(href, '_blank', 'noopener,noreferrer');
+        setIsHovered(false);
+      }, 300); // Show animation for 300ms before opening link
+    }
+  };
+
+  // Simulate hover on touch devices
+  const handleTouchStart = () => {
+    if (isTouchDevice) {
+      setIsHovered(true);
+    }
+  };
+
+  const handleTouchEnd = () => {
+    if (isTouchDevice) {
+      setTimeout(() => setIsHovered(false), 300); // Keep animation for 300ms
+    }
+  };
+
   return (
     <motion.a
       initial="initial"
-      whileHover="hovered"
+      animate={isHovered ? "hovered" : "initial"}
+      whileHover={!isTouchDevice ? "hovered" : false}
       target="_blank"
       href={href}
       className="relative block overflow-hidden whitespace-nowrap text-4xl font-semibold uppercase dark:text-white/90 sm:text-7xl md:text-8xl "
       style={{
         lineHeight: 0.75,
       }}
+      onClick={handleClick}
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
     >
       <div>
         {children.split("").map((l, i) => (
