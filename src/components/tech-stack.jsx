@@ -4,12 +4,12 @@ import { useState, useEffect } from 'react';
 
 const technologies = [
   { name: 'React', icon: '/react.png', category: 'Frontend' },
-  { name: 'Next.js', icon: '/tech/next.svg', category: 'Frontend' },
-  { name: 'TypeScript', icon: '/tech/typescript.svg', category: 'Frontend' },
+  { name: 'Next.js', icon: '/next.png', category: 'Frontend' },
+  { name: 'TypeScript', icon: '/t.png', category: 'Frontend' },
   { name: 'Tailwind CSS', icon: '/tailwind.png', category: 'Frontend' },
   { name: 'Go', icon: '/go.png', category: 'Backend' },
-  { name: 'MongoDB', icon: '/tech/mongodb.svg', category: 'Database' },
-  { name: 'MySQL', icon: '/tech/mysql.svg', category: 'Database' },
+  { name: 'MongoDB', icon: '/mdb.png', category: 'Database' },
+  { name: 'MySQL', icon: '/mysql.png', category: 'Database' },
   { name: 'Docker', icon: '/docker.png', category: 'Tools' },
 ];
 

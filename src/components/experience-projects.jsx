@@ -57,7 +57,8 @@ export default function ExperienceProjects() {
         "TypeScript for Type Safety",
         "Responsive Design with Tailwind CSS",
         "Performance Optimization",
-        "Web Design"
+        "Web Design",
+        "UI/UX Principles"
       ]
     },
     {
@@ -68,13 +69,15 @@ export default function ExperienceProjects() {
         "RESTful API Development",
         "Authentication & Authorization",
         "Server-side Rendering",
-        "APIs"
+        "APIs",
+        "Microservices Architecture"
       ]
     },
     {
       category: "DevOps & Tools",
       concepts: [
         "Git Version Control",
+        "Linux basic & shell scripting",
         "CI/CD Pipelines",
         "Docker Containerization",
         "Cloud Deployment (Vercel, AWS)",
