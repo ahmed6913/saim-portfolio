@@ -65,7 +65,7 @@ export default function ExperienceProjects() {
       category: "Backend Development",
       concepts: [
         "Golang & Firebase",
-        "Database Design & MongoDB",
+        "Database Design (MySQL) & MongoDB",
         "RESTful API Development",
         "Authentication & Authorization",
         "Server-side Rendering",
@@ -77,7 +77,6 @@ export default function ExperienceProjects() {
       category: "DevOps & Tools",
       concepts: [
         "Git Version Control",
-        "Linux basic & shell scripting",
         "CI/CD Pipelines",
         "Docker Containerization",
         "Cloud Deployment (Vercel, AWS)",

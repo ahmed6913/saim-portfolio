@@ -46,7 +46,7 @@ export default function TechStack() {
             My  <span className="text-blue-600">Tech Stack</span> 
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Tools & technologies I use to build modern software applications.
+            Tools & technologies I use to build modern software applications few listed below.
           </p>
         </div>
 
