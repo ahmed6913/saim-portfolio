@@ -72,7 +72,7 @@ export default function Hero() {
                 View My Work
               </button>
             </Link>
-            <Link href="/Software DEVs. Saim CV.K.pdf" target="_blank" rel="noopener noreferrer">
+            <Link href="/Software DEVs. Saim CV.K (1).pdf" target="_blank" rel="noopener noreferrer">
               <button className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-300">
                 Contact Me
               </button>
