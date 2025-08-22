@@ -7,6 +7,7 @@ import ExperienceProjects from "@/components/experience-projects"
 import ReviewsSlider from "@/components/reviews-slider"
 import BackToTop from "@/components/back-to-top"
 import FlipLink from "@/components/fliplink"
+import CurvedLoop from '@/components/CurvedLoop';
 
 
 
@@ -19,10 +20,20 @@ export default function Home() {
     document.documentElement.style.scrollBehavior = "smooth"
   }, [])
 
-  
+
   return (
     <main className="bg-white text-black min-h-screen pt-5">
       <Hero />
+
+      {/* Curved Loop Text Section */}
+      <CurvedLoop
+        marqueeText="Full-Stack Web3 Developer ✦ Blockchain Enthusiast ✦ DevOps Explorer ✦"
+        speed={2}
+        curveAmount={400}
+        direction="right"
+        interactive={true}
+        className="py-8"
+      />
 
       {/* Social Links Section */}
       <section className="py-20 bg-gradient-to-br from-gray-50 to-white dark:from-gray-800 dark:to-gray-900">
@@ -70,7 +81,7 @@ export default function Home() {
               </div>
             </div>
 
-            
+
 
             <div className="flex items-center justify-center gap-6">
               <FlipLink href="mailto:shaikhsaim777121@gmail.com" children="EMAIL" />

@@ -99,7 +99,7 @@ export default function ExperienceProjects() {
 
       category: "Blockchain",
       concepts: [
-        "Solidity",
+        "Solidity & ThirdwebSDK",
         "EVM",
         "JavaScript Libraries web3.js/ether.js",
         "Smart Contract Security",
