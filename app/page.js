@@ -9,6 +9,9 @@ import BackToTop from "@/components/back-to-top"
 import FlipLink from "@/components/fliplink"
 import CurvedLoop from '@/components/CurvedLoop';
 
+// analytics for views
+import { Analytics } from '@vercel/analytics/next';
+
 
 
 
@@ -99,6 +102,9 @@ export default function Home() {
       <ExperienceProjects />
       <ReviewsSlider />
       <BackToTop />
+
+      // analytics
+      <Analytics />
     </main>
   );
 }
