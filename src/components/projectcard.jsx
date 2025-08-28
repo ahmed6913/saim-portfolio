@@ -16,7 +16,7 @@ function ProjectCard() {
       title: "NFT Marketplace with admin page",
       description:
         "A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace.",
-      technologies: ["Next.js", "React", "Go", "MongoDB", "MySQL", "Firebase"],
+      technologies: ["Next.js", "React","TailwindCSS", "Go", "MongoDB", "MySQL", "Firebase"],
       liveLink: "https://nft-marketplace-81f39.web.app/",
       githubLink: "https://github.com/ahmed6913/NFT-Marketplace.git",
       image: "/NFT.png",
@@ -26,11 +26,23 @@ function ProjectCard() {
       title: "POS with admin page",
       description:
         "A modern Point of Sale (POS) system.",
-      technologies: ["Next.js", "React", "Go", "MongoDB", "MySQL", "Firebase","APIs","AWS"],
+      technologies: ["Next.js", "React","TailwindCSS", "Go", "MongoDB", "MySQL", "Firebase","APIs","AWS"],
       liveLink: "https://web-app-pos-1deda.web.app/",
       githubLink: "https://github.com/ahmed6913/web-app-pos.git",
       image: "/pos.png",
     },
+     {
+      id: 3,
+      title: "DeFi Staking App (Decentralized Finance Application)",
+      description:
+        "A DeFi stack app (Decentralized Finance stack application) is a full-stack decentralized application that enables users to interact with financial services on the blockchain—without intermediaries.",
+      technologies: [ "React","TailwindCSS", "Go","Ether.js","Typescript", "Pinata", "Firebase","APIs"],
+      liveLink: "https://ahmed6913.github.io/DeFi-staking-app/",
+      githubLink: "https://github.com/ahmed6913/DeFi-staking-app.git",
+      image: "/defi.png",
+    },
+
+
   ];
 
   return (

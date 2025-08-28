@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 const technologies = [
   // Frontend
   { name: 'React', icon: '/react.png', category: 'Frontend', color: 'from-blue-400 to-cyan-400' },
-  { name: 'Next.js', icon: '/next.png', category: 'Frontend', color: 'from-gray-700 to-gray-900' },
+  { name: 'Next', icon: '/next.png', category: 'Frontend', color: 'from-gray-700 to-gray-900' },
   { name: 'TypeScript', icon: '/t.png', category: 'Frontend', color: 'from-blue-500 to-blue-700' },
   { name: 'JavaScript', icon: '/js.png', category: 'Frontend', color: 'from-yellow-400 to-yellow-600' },
   { name: 'Tailwind CSS', icon: '/tailwind.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
@@ -14,10 +14,15 @@ const technologies = [
   // Backend
   { name: 'Go', icon: '/go.png', category: 'Backend', color: 'from-cyan-400 to-blue-500' },
   { name: 'Firebase', icon: '/firebase.png', category: 'Backend', color: 'from-yellow-400 to-orange-500' },
+  { name: 'MongoDB', icon: '/mdb.png', category: 'Backend', color: 'from-green-400 to-green-600' },
+  { name: 'MySQL', icon: '/mysql.png', category: 'Backend', color: 'from-blue-500 to-blue-700' },
 
-  // Database
-  { name: 'MongoDB', icon: '/mdb.png', category: 'Database', color: 'from-green-400 to-green-600' },
-  { name: 'MySQL', icon: '/mysql.png', category: 'Database', color: 'from-blue-500 to-blue-700' },
+
+  // Blockchain
+ 
+  { name: 'Solidity', icon: '/s.png', category: 'Blockchain', color: 'from-gray-600 to-gray-800' },
+  { name: 'Hardhat', icon: '/h.png', category: 'Blockchain', color: 'from-purple-500 to-pink-500' },
+ 
 
   // DevOps
   { name: 'Docker', icon: '/docker.png', category: 'DevOps', color: 'from-blue-400 to-blue-600' },
@@ -31,7 +36,7 @@ const categories = [
   { name: 'All', color: 'text-blue-600' },
   { name: 'Frontend', color: 'text-cyan-600' },
   { name: 'Backend', color: 'text-green-600' },
-  { name: 'Database', color: 'text-purple-600' },
+  { name: 'Blockchain', color: 'text-purple-600' },
   { name: 'DevOps', color: 'text-orange-600' },
   { name: 'Design', color: 'text-pink-600' },
 ];
