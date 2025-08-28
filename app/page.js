@@ -103,7 +103,7 @@ export default function Home() {
       <ReviewsSlider />
       <BackToTop />
 
-      // analytics
+       {/* analytics */} 
       <Analytics />
     </main>
   );
