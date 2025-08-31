@@ -10,6 +10,7 @@ const technologies = [
   { name: 'TypeScript', icon: '/t.png', category: 'Frontend', color: 'from-blue-500 to-blue-700' },
   { name: 'JavaScript', icon: '/js.png', category: 'Frontend', color: 'from-yellow-400 to-yellow-600' },
   { name: 'Tailwind CSS', icon: '/tailwind.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
+  { name: 'ShadCN/UI', icon: '/scn.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
 
   // Backend
   { name: 'Go', icon: '/go.png', category: 'Backend', color: 'from-cyan-400 to-blue-500' },
@@ -26,10 +27,14 @@ const technologies = [
 
   // DevOps
   { name: 'Docker', icon: '/docker.png', category: 'DevOps', color: 'from-blue-400 to-blue-600' },
-  { name: 'Git', icon: '/git.png', category: 'DevOps', color: 'from-gray-600 to-gray-800' },
+  { name: 'Git & GitHub', icon: '/git.png', category: 'DevOps', color: 'from-gray-600 to-gray-800' },
   { name: 'GitHub CI/CD', icon: '/gith.png', category: 'DevOps', color: 'from-green-400 to-blue-500' },
   { name: 'AWS', icon: '/aws.png', category: 'DevOps', color: 'from-orange-400 to-orange-600' },
-  { name: 'Figma', icon: '/fg.png', category: 'Design', color: 'from-purple-400 to-pink-400' },
+  { name: 'Vercel', icon: '/v.png', category: 'DevOps', color: 'from-orange-400 to-orange-600' },
+
+
+  // Design
+  { name: 'Figma', icon: '/fg.png', category:'Design', color: 'from-purple-400 to-pink-400' },
 ];
 
 const categories = [
