@@ -95,22 +95,7 @@ export default function ExperienceProjects() {
         "Stand-Ups"
       ]
     },
-     {
-
-      category: "Blockchain",
-      concepts: [
-        "Solidity & ThirdwebSDK",
-        "EVM",
-        "JavaScript Libraries web3.js/ether.js",
-        "Smart Contract Security",
-        "Metamask Integration",
-        "NFT, DeFi, & dApp Development"
-      ]
-    
-    }
-  ];
-
-  
+  ]
 
   return (
     <section className="min-h-screen bg-gradient-to-br from-gray-50 to-white dark:from-gray-800 dark:to-gray-900 py-20">

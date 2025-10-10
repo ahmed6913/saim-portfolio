@@ -19,10 +19,7 @@ const technologies = [
   { name: 'MySQL', icon: '/mysql.png', category: 'Backend', color: 'from-blue-500 to-blue-700' },
 
 
-  // Blockchain
- 
-  { name: 'Solidity', icon: '/s.png', category: 'Blockchain', color: 'from-gray-600 to-gray-800' },
-  { name: 'Hardhat', icon: '/h.png', category: 'Blockchain', color: 'from-purple-500 to-pink-500' },
+
  
 
   // DevOps
@@ -41,7 +38,6 @@ const categories = [
   { name: 'All', color: 'text-blue-600' },
   { name: 'Frontend', color: 'text-cyan-600' },
   { name: 'Backend', color: 'text-green-600' },
-  { name: 'Blockchain', color: 'text-purple-600' },
   { name: 'DevOps', color: 'text-orange-600' },
   { name: 'Design', color: 'text-pink-600' },
 ];

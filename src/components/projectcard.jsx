@@ -41,6 +41,16 @@ function ProjectCard() {
       githubLink: "https://github.com/ahmed6913/DeFi-staking-app.git",
       image: "/defi.png",
     },
+    {
+      id: 4,
+      title: "Cubiclabs official website",
+      description:
+        "A service based startup landing page",
+      technologies: [ "Nextjs","TailwindCSS", "Firebase","APIs"],
+      liveLink: "https://cubiclabs.vercel.app/",
+      githubLink: "https://github.com/saim-cubiclabs/cubiclabs.git",
+      image: "/cb.png",
+    },
 
 
   ];
