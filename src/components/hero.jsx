@@ -60,7 +60,7 @@ export default function Hero() {
 
           {/* Description */}
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-           Software Developer passionate about creating beautiful, functional, scalable and user-friendly
+            Software Developer passionate about creating beautiful, functional, scalable and user-friendly
             web applications & web3 products from design, development and deployment with project coordination and DevOps
           </p>
 
@@ -71,11 +71,11 @@ export default function Hero() {
                 View My Work
               </button>
             </Link>
-            <Link href="/Software DEVs. Saim CV.K (1).pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Software-DEV.%20Saim%20CV.K.pdf" target="_blank" rel="noopener noreferrer">
               <button className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-300">
-                Contact Me
+                Download CV
               </button>
-            </Link>
+            </a>
           </div>
         </div>
       </div>
