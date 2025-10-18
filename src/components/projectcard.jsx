@@ -69,7 +69,7 @@ function ProjectCard() {
         
       technologies: [ "Nextjs","TailwindCSS", "Firebase",],
       liveLink: "",
-      githubLink: "",
+      githubLink: "https://github.com/ahmed6913/reward-platform",
       image: "/reward.png",
     },
 
