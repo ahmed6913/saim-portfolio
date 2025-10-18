@@ -51,6 +51,27 @@ function ProjectCard() {
       githubLink: "https://github.com/saim-cubiclabs/cubiclabs.git",
       image: "/cb.png",
     },
+     {
+      id: 5,
+      title: "Lawyer Appointment Booking System",
+      description:
+        "Clients can book appointments with lawyers and lawyers can manage their appointments.",
+      technologies: [ "Nextjs","TailwindCSS", "Firebase","FormspreeAPI"],
+      liveLink: "https://leqal-ack6.vercel.app/",
+      githubLink: "https://github.com/saim-cubiclabs/leqal.git",
+      image: "/leqal.png",
+    },
+    {
+      id: 6,
+      title: "Reward Platform",
+      description:
+"A platform where users earn points by watching, liking, and sharing brand videos (Reels-style). Points can be redeemed for brand-specific rewards/coupons. Brands can upload campaigns, allocate points per engagement, and track basic analytics.",
+        
+      technologies: [ "Nextjs","TailwindCSS", "Firebase",],
+      liveLink: "https://cubiclabs.vercel.app/",
+      githubLink: "https://github.com/ahmed6913/reward-platform.git",
+      image: "/reward.png",
+    },
 
 
   ];
