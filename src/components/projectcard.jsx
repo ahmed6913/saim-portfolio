@@ -68,8 +68,8 @@ function ProjectCard() {
 "A platform where users earn points by watching, liking, and sharing brand videos (Reels-style). Points can be redeemed for brand-specific rewards/coupons. Brands can upload campaigns, allocate points per engagement, and track basic analytics.",
         
       technologies: [ "Nextjs","TailwindCSS", "Firebase",],
-      liveLink: "https://cubiclabs.vercel.app/",
-      githubLink: "https://github.com/ahmed6913/reward-platform.git",
+      liveLink: "",
+      githubLink: "",
       image: "/reward.png",
     },
 
