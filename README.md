@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
-  🧑‍💻 Full-Stack web3 Developer & Founder of a Web3 Startup <br>
+  🧑‍💻 Full-Stack Developer & Founder of a Web3 Startup <br>
   🛠️ DevOps Explorer | 📋 Project & Product Management Enthusiast
 </p>
 
@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building next-gen dApps & scalable backend services at my Web3 startup
-- 🌐 Skilled in Blockcahin, React Frontend, and Backend architecture 
+- 🔭 Currently building next-gen dApps & frontend developement
+- 🌐 Skilled in React/Next.js Frontend, and Backend architecture 
 - 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment on cloud server
 - 📈 Passionate about open-source, decentralization, disruptive tech, problem solveing and business logic
-- 🧑‍💻 Can led tech projects from planning to deployment as a project coordinator/ product owner
+- 🧑‍💻 Can led tech projects from planning to deployment as a project & product coordinator 
 
 ---
 
@@ -27,7 +27,6 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjEiIGhlaWdodD0iMjEiIHZpZXdCb3g9IjAgMCAyMSAyMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwLjM0NCAwTDcuODQ2IDYuMDc1TDEwLjY4NiAxMi4yODZIMTQuNzVMMTAuMzQ0IDBaTTEwLjY5NyAxMi4yODZMNy45MzUgOC4wMDFMMS4zNzUgMjAuNzVIMTAuNjk3VjEyLjI4NlpNMTIuNTg3IDEyLjI4NkwxNS4zNDggMTYuNTYxTDIxLjkwOSAwLjgxNUgxMi41ODdWMTIuMjg2WiIgZmlsbD0iI0ZGRiIvPgo8L3N2Zz4=&logoColor=white)
