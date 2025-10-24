@@ -71,7 +71,7 @@ export default function Hero() {
                 View My Work
               </button>
             </Link>
-            <a href="/Software-DEV.%20Saim%20CV.K.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Software-DEV. Saim CV.K.pdf" target="_blank" rel="noopener noreferrer">
               <button className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-lg font-semibold transition-colors duration-300">
                 Download CV
               </button>

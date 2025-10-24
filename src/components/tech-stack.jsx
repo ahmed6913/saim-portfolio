@@ -13,7 +13,6 @@ const technologies = [
   { name: 'ShadCN/UI', icon: '/scn.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
 
   // Backend
-  { name: 'Go', icon: '/go.png', category: 'Backend', color: 'from-cyan-400 to-blue-500' },
   { name: 'Firebase', icon: '/firebase.png', category: 'Backend', color: 'from-yellow-400 to-orange-500' },
   { name: 'MongoDB', icon: '/mdb.png', category: 'Backend', color: 'from-green-400 to-green-600' },
   { name: 'MySQL', icon: '/mysql.png', category: 'Backend', color: 'from-blue-500 to-blue-700' },
