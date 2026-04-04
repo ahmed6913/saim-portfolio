@@ -1,18 +1,17 @@
 <h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
   🧑‍💻 Full-Stack Developer & Founder of a Web3 Startup <br>
-  🛠️ DevOps Explorer | 📋 Project & Product Management Enthusiast
+  🛠️ Data Engineer Explorer | 📋 Data Analyst | Bussiness Analyst 
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building next-gen dApps & frontend developement
-- 🌐 Skilled in React/Next.js Frontend, and Backend architecture 
-- 🛠️ Exploring CI/CD, GitHub Action, and cloud infra for scalable deployment on cloud server
-- 📈 Passionate about open-source, decentralization, disruptive tech, problem solveing and business logic
-- 🧑‍💻 Can led tech projects from planning to deployment as a project & product coordinator 
+My background spans both technical and non-technical roles, including product ownership, which has given me a unique ability to bridge the gap between business needs and engineering execution.
+
+
+🧑‍💻 Industries Servered: Saas, AI, Blockchain, Cloud.
 
 ---
 
