@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-My background spans both technical and non-technical roles, including product ownership, which has given me a unique ability to bridge the gap between business needs and engineering execution.
+My background spans both technical and non-technical roles, including product ownership, which has given me a unique ability to bridge the gap between business needs and engineering execution. Aspiring Data Analyst with hands-on experience in academic and personal projects involving data cleaning, visualization, and analysis using Python, SQL, and Power BI. Seeking an opportunity to apply my skills and grow in a data-driven environment.
 
 
 🧑‍💻 Industries Servered: Saas, AI, Blockchain, Cloud.
