@@ -49,7 +49,6 @@ My background spans both technical and non-technical roles, including product ow
 - 📌 Dashboarding (Power BI, Excel)
 - 📌 Basic Data Engineering (ETL pipelines, APIs, Firebase/Firestore)
 - 📌 Business Insights & Reporting
-- 📌 Log/System Analysis
 
 ---
 
