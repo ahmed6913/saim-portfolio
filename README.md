@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
-  🧑‍💻 Software Developer & Founder of a Web3 Startup <br>
-  🛠️ Data Engineer Explorer | 📋 Data Analyst | Bussiness Analyst 
+  🧑‍💻 Data Analyst & Founder of a Web3 Startup <br>
+  🛠️ Data Engineer Explorer | 📋 Marketing Data Analyst | Bussiness Analyst | Growth Analyst
 </p>
 
 ---
