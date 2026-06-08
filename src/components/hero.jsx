@@ -60,8 +60,7 @@ export default function Hero() {
 
           {/* Description */}
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-            Software Developer passionate about creating beautiful, functional, scalable and user-friendly
-            web applications & web3 products from design, development and deployment with project coordination and DevOps
+            My background spans both technical and non-technical roles. Aspiring Data Analyst with hands-on experience in academic and personal projects involving data cleaning, visualization, and analysis using Python, SQL, and Power BI. Seeking an opportunity to apply my skills and grow in a data-driven environment.
           </p>
 
           {/* Buttons */}

@@ -50,51 +50,44 @@ export default function ExperienceProjects() {
 
   const learningConcepts = [
     {
-      category: "Frontend Development",
+      category: "Data Analysis & Visualization",
       concepts: [
-        "React Hooks & State Management",
-        "Next.js App Router & Server Components",
-        "TypeScript for Type Safety",
-        "Responsive Design with Tailwind CSS",
-        "Performance Optimization",
-        "Web Design",
-        "UI/UX Principles"
+            "SQL for Data Analysis",
+    "Python (Pandas & NumPy)",
+    "Data Cleaning & Transformation",
+    "Exploratory Data Analysis (EDA)",
+    "Data Visualization",
+    "Power BI Dashboard Development",
+    "Statistical Analysis",
+    "Business Metrics & KPIs",
+    "Reporting & Storytelling with Data",
+    "A/B Testing Fundamentals"
+
       ]
     },
     {
-      category: "Backend Development",
+      category: "Marketing & Business",
       concepts: [
-        "Golang & Firebase",
-        "Database Design (MySQL) & MongoDB",
-        "RESTful API Development",
-        "Authentication & Authorization",
-        "Server-side Rendering",
-        "APIs",
-        "Microservices Architecture"
+        "Marketing Analytics",
+    "Business Intelligence",
+    "Customer Journey Analysis",
+    "Market Research",
+    "Growth Marketing",
+    "Customer Segmentation",
+    "Campaign Performance Analysis",
+    "A/B Testing",
+    "Business Strategy",
+    "Data-Driven Decision Making"
       ]
     },
     {
-      category: "DevOps & Tools",
+      category: "Tools & Technologies",
       concepts: [
         "Git Version Control",
-        "CI/CD Pipelines",
-        "Docker Containerization",
-        "Cloud Deployment (Vercel, AWS)",
         "Performance Monitoring",
-        "Testing & Debugging"
       ]
     },
-    {
-    category: "Project Mangement",
-      concepts: [
-        "Agile SDLC",
-        "Scrum framework",
-        "Jira Tool",
-        "Notion Project Planning",
-        "Product Backlog",
-        "Stand-Ups"
-      ]
-    },
+   
   ]
 
   return (
@@ -108,7 +101,7 @@ export default function ExperienceProjects() {
               Experience & <span className="text-blue-600 dark:text-blue-400">Learning Journey</span>
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              My journey from a beginner to a full-stack developer, constantly learning and building real-world applications.
+              My journey from a beginner to a Data Analyst with a focus on data-driven decision making for marketing, constantly learning and building real-world Business Intelligence solutions.
             </p>
           </div>
 
