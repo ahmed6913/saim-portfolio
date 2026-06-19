@@ -8,7 +8,7 @@ export default function ExperienceProjects() {
   const [counts, setCounts] = useState({
     projects: 0,
     years: 0,
-    clients: 0
+  //  clients: 0
   });
 
   useEffect(() => {
@@ -18,8 +18,8 @@ export default function ExperienceProjects() {
     const animateCounters = () => {
       const targetCounts = {
         projects: 25,
-        years: 2,
-        clients: 15
+        years: 1,
+    //    clients: 5
       };
 
       const duration = 2000; // 2 seconds
@@ -34,7 +34,7 @@ export default function ExperienceProjects() {
         setCounts({
           projects: Math.floor(targetCounts.projects * progress),
           years: Math.floor(targetCounts.years * progress),
-          clients: Math.floor(targetCounts.clients * progress)
+        //  clients: Math.floor(targetCounts.clients * progress)
         });
 
         if (currentStep >= steps) {
@@ -125,14 +125,7 @@ export default function ExperienceProjects() {
               </div>
             </div>
             
-            <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-8 text-center border border-gray-200 dark:border-gray-700">
-              <div className="text-4xl md:text-5xl font-bold text-blue-600 dark:text-blue-400 mb-2">
-                {counts.clients}+
-              </div>
-              <div className="text-lg text-gray-600 dark:text-gray-300 font-medium">
-                 Clients
-              </div>
-            </div>
+          
           </div>
 
           {/* Learning Concepts */}

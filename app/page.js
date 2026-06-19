@@ -30,7 +30,7 @@ export default function Home() {
 
       {/* Curved Loop Text Section */}
       <CurvedLoop
-        marqueeText="Software Developer ✦ Frontend Developer ✦ DevOps Explorer ✦"
+        marqueeText="Data Analyst ✦ Marketing Analyst ✦ Data Engineer ✦"
         speed={2}
         curveAmount={400}
         direction="right"

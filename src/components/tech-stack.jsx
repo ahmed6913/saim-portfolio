@@ -4,41 +4,43 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 
 const technologies = [
-  // Frontend
-  { name: 'React', icon: '/react.png', category: 'Frontend', color: 'from-blue-400 to-cyan-400' },
-  { name: 'Next', icon: '/next.png', category: 'Frontend', color: 'from-gray-700 to-gray-900' },
-  { name: 'TypeScript', icon: '/t.png', category: 'Frontend', color: 'from-blue-500 to-blue-700' },
-  { name: 'JavaScript', icon: '/js.png', category: 'Frontend', color: 'from-yellow-400 to-yellow-600' },
-  { name: 'Tailwind CSS', icon: '/tailwind.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
-  { name: 'ShadCN/UI', icon: '/scn.png', category: 'Frontend', color: 'from-teal-400 to-blue-500' },
+  // Programming Languages
+  { name: 'Python', icon: '/python.png', category: 'Programming', color: 'from-blue-500 to-yellow-500' },
+  { name: 'SQL', icon: '/mysql.png', category: 'Programming', color: 'from-orange-400 to-red-500' },
+  { name: 'JavaScript', icon: '/js.png', category: 'Programming', color: 'from-yellow-400 to-yellow-600' },
 
-  // Backend
-  { name: 'Firebase', icon: '/firebase.png', category: 'Backend', color: 'from-yellow-400 to-orange-500' },
-  { name: 'MongoDB', icon: '/mdb.png', category: 'Backend', color: 'from-green-400 to-green-600' },
-  { name: 'MySQL', icon: '/mysql.png', category: 'Backend', color: 'from-blue-500 to-blue-700' },
+  // Data Analysis & Manipulation
+  { name: 'Pandas', icon: '/pd.png', category: 'Data Analysis', color: 'from-blue-400 to-green-400' },
+  { name: 'NumPy', icon: '/np.png', category: 'Data Analysis', color: 'from-blue-600 to-cyan-600' },
+  { name: 'Scikit-learn', icon: '/sklearn.png', category: 'Data Analysis', color: 'from-orange-400 to-red-500' },
+  { name: 'Apache Spark', icon: '/spark.png', category: 'Data Analysis', color: 'from-orange-500 to-yellow-500' },
 
+  // Visualization
+  { name: 'Tableau', icon: '/tableau.png', category: 'Visualization', color: 'from-red-500 to-yellow-500' },
+  { name: 'Power BI', icon: '/powerbi.png', category: 'Visualization', color: 'from-yellow-400 to-orange-500' },
+  { name: 'Matplotlib', icon: '/matplotlib.png', category: 'Visualization', color: 'from-blue-600 to-teal-600' },
+  { name: 'Plotly', icon: '/plotly.png', category: 'Visualization', color: 'from-teal-400 to-blue-500' },
 
+  // Databases
+  { name: 'MySQL', icon: '/mysql.png', category: 'Databases', color: 'from-blue-500 to-blue-700' },
+  { name: 'PostgreSQL', icon: '/postgres.png', category: 'Databases', color: 'from-blue-600 to-blue-800' },
+  { name: 'MongoDB', icon: '/mdb.png', category: 'Databases', color: 'from-green-400 to-green-600' },
+  { name: 'BigQuery', icon: '/bigquery.png', category: 'Databases', color: 'from-blue-500 to-cyan-500' },
 
- 
-
-  // DevOps
-  { name: 'Docker', icon: '/docker.png', category: 'DevOps', color: 'from-blue-400 to-blue-600' },
-  { name: 'Git & GitHub', icon: '/git.png', category: 'DevOps', color: 'from-gray-600 to-gray-800' },
-  { name: 'GitHub CI/CD', icon: '/gith.png', category: 'DevOps', color: 'from-green-400 to-blue-500' },
-  { name: 'AWS', icon: '/aws.png', category: 'DevOps', color: 'from-orange-400 to-orange-600' },
-  { name: 'Vercel', icon: '/v.png', category: 'DevOps', color: 'from-orange-400 to-orange-600' },
-
-
-  // Design
-  { name: 'Figma', icon: '/fg.png', category:'Design', color: 'from-purple-400 to-pink-400' },
+  // Cloud & Tools
+  { name: 'AWS', icon: '/aws.png', category: 'Tools', color: 'from-orange-400 to-orange-600' },
+  { name: 'Google Cloud', icon: '/gcp.png', category: 'Tools', color: 'from-blue-400 to-red-400' },
+  { name: 'Git & GitHub', icon: '/git.png', category: 'Tools', color: 'from-gray-600 to-gray-800' },
+  { name: 'Jupyter', icon: '/jupyter.png', category: 'Tools', color: 'from-orange-400 to-red-500' },
 ];
 
 const categories = [
   { name: 'All', color: 'text-blue-600' },
-  { name: 'Frontend', color: 'text-cyan-600' },
-  { name: 'Backend', color: 'text-green-600' },
-  { name: 'DevOps', color: 'text-orange-600' },
-  { name: 'Design', color: 'text-pink-600' },
+  { name: 'Programming', color: 'text-purple-600' },
+  { name: 'Data Analysis', color: 'text-cyan-600' },
+  { name: 'Visualization', color: 'text-red-600' },
+  { name: 'Databases', color: 'text-green-600' },
+  { name: 'Tools', color: 'text-orange-600' },
 ];
 
 export default function TechStack() {
@@ -102,7 +104,7 @@ export default function TechStack() {
             My <span className="text-blue-600">Tech Stack</span>
           </h2>
           <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Tools & technologies I use to build modern, scalable software applications and deliver exceptional user experiences.
+            Tools & technologies I use for data analysis, visualization, and building scalable data engineering solutions.
           </p>
         </motion.div>
 

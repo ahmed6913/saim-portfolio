@@ -5,39 +5,39 @@ import { useState, useEffect } from 'react';
 const reviews = [
   {
     id: 1,
-    name: "@sarah_dev",
-    content: "Just discovered Saim's portfolio — a sleek, minimal, and super dev-friendly developer. Clean code, easy to work with, and perfect for modern projects. ✨",
-    avatar: "👩‍💻"
+    name: "@sarah_marketing",
+    content: "Saim's data-driven approach transformed our marketing campaigns. His ability to extract actionable insights from complex datasets is outstanding. Results speak for themselves! 📊",
+    avatar: "👩‍💼"
   },
   {
     id: 2,
-    name: "@mike_tech",
-    content: "Really impressed by Saim's work. Check it out. The portfolio design is amazing and the projects showcase real talent. 🚀",
+    name: "@mike_analytics",
+    content: "Working with Saim on our analytics pipeline was smooth. He optimized our data workflows and cut processing time by 40%. A true data engineer! ⚡",
     avatar: "👨‍💻"
   },
   {
     id: 3,
-    name: "@emily_design",
-    content: "Saim's ability to create beautiful, functional web applications is outstanding. His attention to detail and user experience focus is exactly what clients need. ☕",
-    avatar: "👩‍🎨"
+    name: "@emily_product",
+    content: "Saim provided brilliant market insights that shaped our product strategy. His analysis is thorough, clear, and always on point. Highly valuable! 📈",
+    avatar: "👩‍💼"
   },
   {
     id: 4,
-    name: "@david_fullstack",
-    content: "As a fellow developer, I can attest to Saim's technical expertise. Clean code, modern tech stack, and excellent problem-solving skills. Highly recommended! 💻",
-    avatar: "👨‍🔧"
+    name: "@david_business",
+    content: "As a business analyst, I appreciate Saim's technical depth and business acumen. His SQL queries and visualizations make complex data accessible. Outstanding work! 💡",
+    avatar: "👨‍💼"
   },
   {
     id: 5,
-    name: "@alex_startup",
-    content: "Saim helped us build a robust e-commerce platform from scratch. His full-stack skills and project management abilities are top-notch. ⭐",
+    name: "@alex_finance",
+    content: "Saim built our financial dashboard using Python and BigQuery. The performance is incredible and the insights are game-changing for our team. 🎯",
     avatar: "👨‍💼"
   },
   {
     id: 6,
-    name: "@lisa_agency",
-    content: "Working with Saim was a game-changer for our agency. He delivered our client's project on time and exceeded expectations. Professional and reliable! 🎯",
-    avatar: "👩‍💼"
+    name: "@lisa_data_science",
+    content: "Collaborated with Saim on predictive modeling projects. His expertise in machine learning and data engineering solved critical business problems. Excellent partner! 🔬",
+    avatar: "👩‍🔬"
   }
 ];
 
@@ -71,10 +71,10 @@ export default function ReviewsSlider() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-4">
-            See what developers are saying about <span className="text-blue-600 dark:text-blue-400">Saim</span>
+            See what clients and colleagues are saying about <span className="text-blue-600 dark:text-blue-400">Saim</span>
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Testimonials from colleagues and clients I've worked with
+            Testimonials from teams and organizations I've partnered with on data analytics and engineering projects
           </p>
         </div>
 
