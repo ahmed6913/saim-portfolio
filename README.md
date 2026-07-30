@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
   🧑‍💻 Data Analyst & Founder of a Web3 Startup <br>
-  🛠️ Data Engineer Explorer | 📋 Marketing Data Analyst | Bussiness Analyst | Growth Analyst
+  🛠️ Data Engineer Explorer | 📋 Marketing Data Analyst | Bussiness Analyst | Marketing Growth Analyst
 </p>
 
 ---
@@ -22,7 +22,6 @@ My background spans both technical and non-technical roles, including product ow
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge)
 
 #### 📊 Data Analytics & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
