@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shaikh Saim Ahmed</h1>
 <p align="center">
   🧑‍💻 Data Analyst & Founder of a Web3 Startup <br>
-  🛠️ Data Engineer Explorer | 📋 Marketing Data Analyst | Bussiness Analyst | Marketing Growth Analyst
+  🛠️ Data Analyst | Performance Marketing Executive | Key Account Executive| 📋 Marketing Data Analyst | Bussiness Analyst | Marketing Growth Analyst
 </p>
 
 ---
