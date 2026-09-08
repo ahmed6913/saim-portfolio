@@ -8,7 +8,27 @@
 
 ### 🚀 About Me
 
-My background spans both technical and non-technical roles, including product ownership, which has given me a unique ability to bridge the gap between business needs and engineering execution. Aspiring Data Analyst with hands-on experience in academic and personal projects involving data cleaning, visualization, and analysis using Python, SQL, and Power BI. Seeking an opportunity to apply my skills and grow in a data-driven environment.
+My background spans both technical and non-technical roles, including product ownership, which has given me a unique ability to bridge the gap between business needs and engineering execution. Aspiring Data Analyst with hands-on experience in academic and personal projects involving data cleaning, visualization, and analysis using Python, SQL, and Power BI. Seeking an opportunity to apply my skills and grow in a data-driven environment.Data and Business Analytics professional with an interest in performance marketing, business growth, and account management.
+ 
+My background combines technical and business experience, allowing me to understand both data and the real-world business decisions behind it. I enjoy analyzing information, identifying patterns, and turning insights into practical actions that can improve revenue, marketing performance, and customer relationships.
+ 
+Currently, I am building hands-on expertise in:
+ 
+• Data Analytics
+ • SQL, Python & Excel
+ • Power BI & Data Visualization
+ • Business Analysis
+ • Performance Marketing
+ • Meta Ads & Google Ads
+ • Customer & Account Management
+ 
+I am particularly interested in how data can help businesses understand customer behaviour, improve marketing performance, optimize operations, and identify growth opportunities.
+ 
+Current Focus
+ 
+📊 Building business and data analytics projects
+📈 Developing performance marketing skills through real-world campaigns
+🤝 Learning account management, CRM, and client growth strategies
 
 
 🧑‍💻 Industries Servered: Saas, AI, Blockchain, Cloud.
