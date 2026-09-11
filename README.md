@@ -95,7 +95,7 @@ Explore my GitHub projects focused on **Key Account Management, Data Analytics, 
 
 | Project | Description | Tech / Tools |
 |--------|-------------|--------------|
-| 📊 **[Strategic Key Account Management](https://github.com/ahmed6913/strategic-key-account-management)** | End-to-end B2B Key Account Management case study covering **20 enterprise accounts**, account segmentation, health scoring, revenue analysis, retention, upselling, cross-selling, QBR reporting, client communication, renewal management, and CRM pipeline management. | Excel, HubSpot CRM, PowerPoint, Google Sheets |
+| 📊 **[Strategic Key Account Management](https://github.com/ahmed6913/Key-Account-Management)** | End-to-end B2B Key Account Management case study covering **20 enterprise accounts**, account segmentation, health scoring, revenue analysis, retention, upselling, cross-selling, QBR reporting, client communication, renewal management, and CRM pipeline management. | Excel, HubSpot CRM, PowerPoint, Google Sheets |
 
 
 ---
