@@ -91,11 +91,11 @@ Current Focus
 
 ### 🧪 Featured Projects
 
-Make sure to look at my github repos 
+Explore my GitHub projects focused on **Key Account Management, Data Analytics, and Performance Marketing**.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Full stack web app [web-app-pos with NFT-Marketplahttps://github.com/ahmed6913/web-app-pos.gitce]() | A modern Point of Sale (POS) system with NFT-based customer rewards and an integrated NFT Marketplace — built for retail businesses looking to reward loyal customers with digital assets. | Javascript, React, TailwindCSS, go, Mongodb, MySQL, Firebase, Solidity, Hardhat | Firebase Hosting 
+| Project | Description | Tech / Tools |
+|--------|-------------|--------------|
+| 📊 **[Strategic Key Account Management](https://github.com/ahmed6913/strategic-key-account-management)** | End-to-end B2B Key Account Management case study covering **20 enterprise accounts**, account segmentation, health scoring, revenue analysis, retention, upselling, cross-selling, QBR reporting, client communication, renewal management, and CRM pipeline management. | Excel, HubSpot CRM, PowerPoint, Google Sheets |
 
 
 ---
